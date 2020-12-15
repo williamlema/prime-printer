@@ -1,0 +1,5 @@
+version: '3.7'
+services:
+  prime-printer:
+    container_name: prime-printer-container
+    build: .
