@@ -52,7 +52,7 @@ $ gradle build && java -jar build/libs/prime-printer-0.0.1-SNAPSHOT.jar
 
 ```
 
-## Runnung with Docker
+## Running with Docker
 
 ### Prerequisites
 
