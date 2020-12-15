@@ -43,7 +43,7 @@ For building and running the application you need:
 * [Gradle 4+](http://www.gradle.org/downloads)
 
 
-## Running the application locally
+## Running with Gradle
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the following command in root folder.
 
@@ -52,7 +52,7 @@ $ gradle build && java -jar build/libs/prime-printer-0.0.1-SNAPSHOT.jar
 
 ```
 
-## Build and deploy with Docker
+## Runnung with Docker
 
 ### Prerequisites
 
