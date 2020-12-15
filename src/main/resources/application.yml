@@ -1,0 +1,4 @@
+prime:
+  number-of-primes: 1000
+  number-rows-in-page: 50
+  numbers-per-line: 4
